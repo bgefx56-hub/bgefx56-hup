@@ -1,5 +1,5 @@
 Hi, I'm bgefx56 👋
-Computer Science & Engineering student, building AI-powered tools and teaching others how to use them.
+AI/DS Engineering student, building AI-powered tools and teaching others how to use them.
 🚀 What I'm working on
 Building AI chatbots using the Claude API, with a focus on natural, human-like interaction
 Working toward a long-term goal: creating a genuinely human-like AI by 2030
